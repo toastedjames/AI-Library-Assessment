@@ -8,7 +8,9 @@ The project transforms structured and unstructured library assessment data into 
 
 ## Dashboard
 
-![Library Assessment Dashboard](docs/dashboard.png)
+![Library Assessment Dashboard](docs/dashboard1.png)
+![Library Assessment Dashboard](docs/dashboard2.png)
+![Library Assessment Dashboard](docs/dashboard3.png)
 
 ---
 
