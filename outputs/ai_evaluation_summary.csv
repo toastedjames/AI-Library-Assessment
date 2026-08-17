@@ -1,0 +1,6 @@
+metric,value
+Total pilot responses,50.0
+Valid structured outputs,32.0
+Structured output rate,0.64
+Theme accuracy,0.8438
+Macro F1,0.7964

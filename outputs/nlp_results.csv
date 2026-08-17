@@ -1,0 +1,301 @@
+respondent_id,student_level,academic_area,open_feedback,validation_theme,predicted_theme,sentiment_score,sentiment
+R0001,Graduate,Engineering,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0002,Undergraduate,Engineering,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0003,Undergraduate,Humanities,"I can usually access articles without a problem, but some links seem to lead me in circles.",Digital Resources,Digital Resources,0,Neutral
+R0004,Faculty/Staff,Humanities,I sometimes feel overwhelmed by the number of academic resources available.,Research Support,Research Support,0,Neutral
+R0005,Undergraduate,Engineering,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0006,Undergraduate,Engineering,I would like clearer guidance on evaluating sources and deciding which materials are reliable.,Research Support,Research Support,0,Neutral
+R0007,Undergraduate,Social Sciences,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0008,Graduate,Life Sciences,I occasionally run into access issues when using library materials remotely.,Digital Resources,Digital Resources,0,Neutral
+R0009,Undergraduate,Engineering,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0010,Graduate,Business,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0011,Graduate,Life Sciences,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0012,Undergraduate,Social Sciences,"I found most of the material I needed, but a few important sources were unavailable.",Collections,Collections,-1,Negative
+R0013,Undergraduate,Life Sciences,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0014,Graduate,Engineering,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0015,Faculty/Staff,Social Sciences,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0016,Undergraduate,Engineering,I was able to find most of what I needed online without asking for assistance.,Digital Resources,Digital Resources,0,Neutral
+R0017,Graduate,Engineering,I occasionally run into access issues when using library materials remotely.,Digital Resources,Digital Resources,0,Neutral
+R0018,Undergraduate,Life Sciences,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0019,Undergraduate,Social Sciences,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0020,Graduate,Computer Science,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0021,Undergraduate,Life Sciences,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0022,Graduate,Business,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0023,Graduate,Social Sciences,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0024,Undergraduate,Business,"I can usually find useful academic material, although I sometimes need more guidance on where to begin.",Research Support,Research Support,0,Neutral
+R0025,Graduate,Life Sciences,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0026,Undergraduate,Business,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0027,Undergraduate,Social Sciences,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0028,Graduate,Engineering,"Most of the material I need is available online, but finding the correct resource can take several attempts.",Digital Resources,Research Support,0,Neutral
+R0029,Faculty/Staff,Engineering,"Electronic materials have been convenient, especially when I cannot visit the library in person.",Digital Resources,Digital Resources,1,Positive
+R0030,Graduate,Life Sciences,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0031,Undergraduate,Computer Science,More current editions of some textbooks would be helpful.,Collections,Collections,0,Neutral
+R0032,Faculty/Staff,Engineering,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0033,Undergraduate,Business,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0034,Graduate,Humanities,The digital resources are extensive and generally work well for my coursework.,Digital Resources,Digital Resources,0,Neutral
+R0035,Undergraduate,Computer Science,"The resources are extensive, but I would benefit from more help choosing the right sources for a project.",Research Support,Research Support,0,Neutral
+R0036,Graduate,Humanities,"I found most of the material I needed, but a few important sources were unavailable.",Collections,Collections,-1,Negative
+R0037,Graduate,Life Sciences,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0038,Graduate,Business,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0039,Graduate,Social Sciences,I was able to find most of what I needed online without asking for assistance.,Digital Resources,Digital Resources,0,Neutral
+R0040,Faculty/Staff,Computer Science,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0041,Faculty/Staff,Social Sciences,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0042,Undergraduate,Computer Science,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0043,Undergraduate,Humanities,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0044,Undergraduate,Humanities,"The library has comfortable spaces, but I sometimes have to look around for an available desk.",Study Space,Study Space,1,Positive
+R0045,Graduate,Life Sciences,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0046,Undergraduate,Social Sciences,"During busy periods, the available seating does not always meet demand.",Study Space,Study Space,-1,Negative
+R0047,Undergraduate,Business,"Electronic materials have been convenient, especially when I cannot visit the library in person.",Digital Resources,Digital Resources,1,Positive
+R0048,Graduate,Business,I would like more outlets near the desks where students usually work.,Study Space,Study Space,0,Neutral
+R0049,Undergraduate,Social Sciences,"I was able to complete my research, although I spent quite a while figuring out which resources were appropriate.",Research Support,Research Support,0,Neutral
+R0050,Undergraduate,Social Sciences,"The online collection is useful, but the search experience could be easier for someone using it for the first time.",Digital Resources,Digital Resources,0,Neutral
+R0051,Undergraduate,Computer Science,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0052,Graduate,Business,The library could provide more support for students who are unfamiliar with scholarly research.,Research Support,Research Support,0,Neutral
+R0053,Undergraduate,Computer Science,"The staff are knowledgeable, but I do not always know when or how to ask for research assistance.",Research Support,Research Support,0,Neutral
+R0054,Undergraduate,Business,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0055,Faculty/Staff,Business,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0056,Graduate,Business,"I usually find somewhere to work, but peak hours can be frustrating.",Study Space,Study Space,-1,Negative
+R0057,Undergraduate,Computer Science,The extended hours are helpful when I have assignments to finish late at night.,Study Space,Study Space,0,Neutral
+R0058,Undergraduate,Engineering,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0059,Undergraduate,Humanities,I would like a simpler way to locate electronic books and journal articles related to a course.,Digital Resources,Digital Resources,0,Neutral
+R0060,Undergraduate,Business,"The selection is good, although availability depends heavily on the subject.",Collections,Collections,0,Neutral
+R0061,Undergraduate,Life Sciences,"The collection is broad, but there are occasional gaps in materials for specialized subjects.",Collections,Collections,-1,Negative
+R0062,Graduate,Computer Science,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0063,Graduate,Business,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0064,Graduate,Social Sciences,"The online collection is useful, but the search experience could be easier for someone using it for the first time.",Digital Resources,Digital Resources,0,Neutral
+R0065,Undergraduate,Engineering,The library could provide more support for students who are unfamiliar with scholarly research.,Research Support,Research Support,0,Neutral
+R0066,Graduate,Humanities,I occasionally discover that a recommended book is not accessible when I need it.,Collections,Collections,0,Neutral
+R0067,Undergraduate,Life Sciences,The library could provide more support for students who are unfamiliar with scholarly research.,Research Support,Research Support,0,Neutral
+R0068,Faculty/Staff,Engineering,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0069,Undergraduate,Business,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0070,Graduate,Life Sciences,"The digital collection is strong, although some materials take too many steps to access.",Digital Resources,Digital Resources,0,Neutral
+R0071,Faculty/Staff,Humanities,"The staff are knowledgeable, but I do not always know when or how to ask for research assistance.",Research Support,Research Support,0,Neutral
+R0072,Graduate,Computer Science,The extended hours are helpful when I have assignments to finish late at night.,Study Space,Study Space,0,Neutral
+R0073,Undergraduate,Computer Science,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0074,Graduate,Engineering,"The library has comfortable spaces, but I sometimes have to look around for an available desk.",Study Space,Study Space,1,Positive
+R0075,Faculty/Staff,Life Sciences,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0076,Undergraduate,Life Sciences,"I like the study areas, but there are not always enough places available during exams.",Study Space,Study Space,0,Neutral
+R0077,Graduate,Humanities,"I found the materials I needed after some searching, but a short guide for new researchers would help.",Research Support,Research Support,0,Neutral
+R0078,Undergraduate,Computer Science,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0079,Undergraduate,Engineering,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0080,Undergraduate,Life Sciences,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0081,Undergraduate,Business,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0082,Faculty/Staff,Engineering,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0083,Undergraduate,Engineering,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0084,Graduate,Engineering,"The online services save me a lot of time, although the website could explain its search options better.",Digital Resources,Digital Resources,1,Positive
+R0085,Undergraduate,Computer Science,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0086,Graduate,Life Sciences,The extended hours are helpful when I have assignments to finish late at night.,Study Space,Study Space,0,Neutral
+R0087,Undergraduate,Business,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0088,Faculty/Staff,Life Sciences,I would like a simpler way to locate electronic books and journal articles related to a course.,Digital Resources,Digital Resources,0,Neutral
+R0089,Undergraduate,Business,"The staff are knowledgeable, but I do not always know when or how to ask for research assistance.",Research Support,Research Support,0,Neutral
+R0090,Undergraduate,Humanities,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0091,Graduate,Engineering,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0092,Graduate,Business,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0093,Undergraduate,Computer Science,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0094,Undergraduate,Life Sciences,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0095,Graduate,Business,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0096,Undergraduate,Computer Science,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0097,Graduate,Business,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0098,Undergraduate,Life Sciences,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0099,Undergraduate,Business,Some required readings were difficult to obtain because only limited copies were available.,Collections,Collections,-2,Negative
+R0100,Faculty/Staff,Social Sciences,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0101,Graduate,Engineering,"Accessing electronic material from off campus is generally convenient, although the process is not always clear.",Digital Resources,Digital Resources,0,Neutral
+R0102,Undergraduate,Humanities,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0103,Graduate,Business,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0104,Undergraduate,Engineering,"I can usually find useful academic material, although I sometimes need more guidance on where to begin.",Research Support,Research Support,0,Neutral
+R0105,Undergraduate,Engineering,"The online collection is useful, but the search experience could be easier for someone using it for the first time.",Digital Resources,Digital Resources,0,Neutral
+R0106,Undergraduate,Life Sciences,The collection has been useful for my assignments and research.,Collections,Research Support,0,Neutral
+R0107,Undergraduate,Humanities,"The staff are knowledgeable, but I do not always know when or how to ask for research assistance.",Research Support,Research Support,0,Neutral
+R0108,Faculty/Staff,Life Sciences,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0109,Undergraduate,Computer Science,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0110,Undergraduate,Social Sciences,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0111,Graduate,Life Sciences,I occasionally run into access issues when using library materials remotely.,Digital Resources,Digital Resources,0,Neutral
+R0112,Undergraduate,Social Sciences,I had a positive experience getting help with a difficult research question.,Research Support,Research Support,0,Neutral
+R0113,Undergraduate,Social Sciences,"The physical environment is pleasant, though some seats are less comfortable for long sessions.",Study Space,Study Space,1,Positive
+R0114,Undergraduate,Business,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0115,Graduate,Computer Science,"I like the study areas, but there are not always enough places available during exams.",Study Space,Study Space,0,Neutral
+R0116,Graduate,Engineering,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0117,Graduate,Humanities,I occasionally run into access issues when using library materials remotely.,Digital Resources,Digital Resources,0,Neutral
+R0118,Undergraduate,Business,I would like more outlets near the desks where students usually work.,Study Space,Study Space,0,Neutral
+R0119,Undergraduate,Computer Science,More current editions of some textbooks would be helpful.,Collections,Collections,0,Neutral
+R0120,Graduate,Computer Science,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0121,Graduate,Computer Science,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0122,Undergraduate,Computer Science,"I can usually find useful academic material, although I sometimes need more guidance on where to begin.",Research Support,Research Support,0,Neutral
+R0123,Graduate,Computer Science,"The digital collection is strong, although some materials take too many steps to access.",Digital Resources,Digital Resources,0,Neutral
+R0124,Graduate,Humanities,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0125,Undergraduate,Computer Science,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0126,Undergraduate,Engineering,The extended hours are helpful when I have assignments to finish late at night.,Study Space,Study Space,0,Neutral
+R0127,Graduate,Business,I would like more outlets near the desks where students usually work.,Study Space,Study Space,0,Neutral
+R0128,Graduate,Engineering,A few of the books I needed for coursework were not available in the format I wanted.,Collections,Collections,-1,Negative
+R0129,Graduate,Humanities,"The library has comfortable spaces, but I sometimes have to look around for an available desk.",Study Space,Study Space,1,Positive
+R0130,Faculty/Staff,Life Sciences,"The online services save me a lot of time, although the website could explain its search options better.",Digital Resources,Digital Resources,1,Positive
+R0131,Undergraduate,Computer Science,"During busy periods, the available seating does not always meet demand.",Study Space,Study Space,-1,Negative
+R0132,Undergraduate,Computer Science,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0133,Undergraduate,Engineering,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0134,Faculty/Staff,Engineering,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0135,Graduate,Humanities,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0136,Faculty/Staff,Social Sciences,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0137,Graduate,Life Sciences,"The online services save me a lot of time, although the website could explain its search options better.",Digital Resources,Digital Resources,1,Positive
+R0138,Undergraduate,Humanities,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0139,Undergraduate,Life Sciences,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0140,Undergraduate,Life Sciences,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0141,Undergraduate,Life Sciences,"The study environment works well for me, but seating availability varies considerably by time of day.",Study Space,Study Space,1,Positive
+R0142,Undergraduate,Business,"I like the study areas, but there are not always enough places available during exams.",Study Space,Study Space,0,Neutral
+R0143,Undergraduate,Social Sciences,I occasionally discover that a recommended book is not accessible when I need it.,Collections,Collections,0,Neutral
+R0144,Graduate,Humanities,"I like the study areas, but there are not always enough places available during exams.",Study Space,Study Space,0,Neutral
+R0145,Undergraduate,Engineering,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0146,Undergraduate,Computer Science,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0147,Faculty/Staff,Social Sciences,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0148,Faculty/Staff,Social Sciences,"The physical environment is pleasant, though some seats are less comfortable for long sessions.",Study Space,Study Space,1,Positive
+R0149,Faculty/Staff,Humanities,Research consultations have been helpful when I have used them.,Research Support,Research Support,0,Neutral
+R0150,Undergraduate,Humanities,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0151,Graduate,Business,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0152,Graduate,Life Sciences,"I found the materials I needed after some searching, but a short guide for new researchers would help.",Research Support,Research Support,0,Neutral
+R0153,Graduate,Engineering,"I usually find somewhere to work, but peak hours can be frustrating.",Study Space,Study Space,-1,Negative
+R0154,Undergraduate,Business,"I like the study areas, but there are not always enough places available during exams.",Study Space,Study Space,0,Neutral
+R0155,Graduate,Business,"I like the study areas, but there are not always enough places available during exams.",Study Space,Study Space,0,Neutral
+R0156,Graduate,Computer Science,"I was able to complete my research, although I spent quite a while figuring out which resources were appropriate.",Research Support,Research Support,0,Neutral
+R0157,Graduate,Social Sciences,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0158,Graduate,Life Sciences,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0159,Undergraduate,Computer Science,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0160,Undergraduate,Life Sciences,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0161,Undergraduate,Business,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0162,Undergraduate,Humanities,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0163,Graduate,Business,"The library is a comfortable place to work, although finding a quiet seat can be difficult at busy times.",Study Space,Study Space,-1,Negative
+R0164,Graduate,Humanities,The digital resources are extensive and generally work well for my coursework.,Digital Resources,Digital Resources,0,Neutral
+R0165,Undergraduate,Life Sciences,"I usually find somewhere to work, but peak hours can be frustrating.",Study Space,Study Space,-1,Negative
+R0166,Undergraduate,Engineering,"I usually find somewhere to work, but peak hours can be frustrating.",Study Space,Study Space,-1,Negative
+R0167,Undergraduate,Social Sciences,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0168,Graduate,Business,A few of the books I needed for coursework were not available in the format I wanted.,Collections,Collections,-1,Negative
+R0169,Graduate,Computer Science,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0170,Faculty/Staff,Life Sciences,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0171,Undergraduate,Life Sciences,I would like clearer guidance on evaluating sources and deciding which materials are reliable.,Research Support,Research Support,0,Neutral
+R0172,Graduate,Engineering,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0173,Graduate,Social Sciences,"The physical environment is pleasant, though some seats are less comfortable for long sessions.",Study Space,Study Space,1,Positive
+R0174,Graduate,Social Sciences,"I usually find relevant material, although some older or specialized items are difficult to locate.",Collections,Collections,-2,Negative
+R0175,Undergraduate,Engineering,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0176,Undergraduate,Social Sciences,The library could provide more support for students who are unfamiliar with scholarly research.,Research Support,Research Support,0,Neutral
+R0177,Undergraduate,Business,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0178,Faculty/Staff,Life Sciences,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0179,Undergraduate,Engineering,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0180,Undergraduate,Social Sciences,"The resources are extensive, but I would benefit from more help choosing the right sources for a project.",Research Support,Research Support,0,Neutral
+R0181,Graduate,Business,"I usually find relevant material, although some older or specialized items are difficult to locate.",Collections,Collections,-2,Negative
+R0182,Undergraduate,Computer Science,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0183,Undergraduate,Engineering,"I can usually find useful academic material, although I sometimes need more guidance on where to begin.",Research Support,Research Support,0,Neutral
+R0184,Graduate,Business,"Electronic materials have been convenient, especially when I cannot visit the library in person.",Digital Resources,Digital Resources,1,Positive
+R0185,Undergraduate,Business,The library could provide more support for students who are unfamiliar with scholarly research.,Research Support,Research Support,0,Neutral
+R0186,Graduate,Humanities,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0187,Graduate,Social Sciences,"I can usually access articles without a problem, but some links seem to lead me in circles.",Digital Resources,Digital Resources,0,Neutral
+R0188,Graduate,Engineering,"The resources are extensive, but I would benefit from more help choosing the right sources for a project.",Research Support,Research Support,0,Neutral
+R0189,Undergraduate,Social Sciences,"During busy periods, the available seating does not always meet demand.",Study Space,Study Space,-1,Negative
+R0190,Undergraduate,Business,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0191,Faculty/Staff,Business,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0192,Faculty/Staff,Computer Science,"The environment is generally good for studying, especially when the building is not crowded.",Study Space,Study Space,-1,Negative
+R0193,Graduate,Life Sciences,"The physical environment is pleasant, though some seats are less comfortable for long sessions.",Study Space,Study Space,1,Positive
+R0194,Faculty/Staff,Engineering,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0195,Graduate,Life Sciences,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0196,Graduate,Social Sciences,I sometimes have to look outside the university for older academic sources.,Collections,Collections,0,Neutral
+R0197,Undergraduate,Computer Science,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0198,Undergraduate,Life Sciences,"I was able to complete my research, although I spent quite a while figuring out which resources were appropriate.",Research Support,Research Support,0,Neutral
+R0199,Faculty/Staff,Life Sciences,More spaces for small groups would make the library more useful for collaborative projects.,Study Space,Study Space,0,Neutral
+R0200,Graduate,Business,"I found most of the material I needed, but a few important sources were unavailable.",Collections,Collections,-1,Negative
+R0201,Undergraduate,Computer Science,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0202,Undergraduate,Engineering,"I usually find relevant material, although some older or specialized items are difficult to locate.",Collections,Collections,-2,Negative
+R0203,Graduate,Computer Science,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0204,Faculty/Staff,Business,"I found most of the material I needed, but a few important sources were unavailable.",Collections,Collections,-1,Negative
+R0205,Undergraduate,Engineering,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0206,Faculty/Staff,Humanities,I occasionally discover that a recommended book is not accessible when I need it.,Collections,Collections,0,Neutral
+R0207,Graduate,Business,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0208,Undergraduate,Social Sciences,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0209,Graduate,Life Sciences,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0210,Undergraduate,Humanities,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0211,Graduate,Social Sciences,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0212,Faculty/Staff,Business,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0213,Undergraduate,Computer Science,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Digital Resources,Digital Resources,-1,Negative
+R0214,Graduate,Humanities,"The selection is good, although availability depends heavily on the subject.",Collections,Collections,0,Neutral
+R0215,Faculty/Staff,Humanities,"I usually find somewhere to work, but peak hours can be frustrating.",Study Space,Study Space,-1,Negative
+R0216,Undergraduate,Humanities,"The environment is generally good for studying, especially when the building is not crowded.",Study Space,Study Space,-1,Negative
+R0217,Undergraduate,Social Sciences,"The resources are extensive, but I would benefit from more help choosing the right sources for a project.",Research Support,Research Support,0,Neutral
+R0218,Undergraduate,Social Sciences,"The online services save me a lot of time, although the website could explain its search options better.",Digital Resources,Digital Resources,1,Positive
+R0219,Graduate,Business,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0220,Graduate,Life Sciences,I was able to find most of what I needed online without asking for assistance.,Digital Resources,Digital Resources,0,Neutral
+R0221,Faculty/Staff,Business,"I can usually find useful academic material, although I sometimes need more guidance on where to begin.",Research Support,Research Support,0,Neutral
+R0222,Undergraduate,Life Sciences,"The selection is good, although availability depends heavily on the subject.",Collections,Collections,0,Neutral
+R0223,Faculty/Staff,Life Sciences,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0224,Undergraduate,Social Sciences,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0225,Undergraduate,Humanities,"Most of the material I need is available online, but finding the correct resource can take several attempts.",Digital Resources,Research Support,0,Neutral
+R0226,Undergraduate,Computer Science,"During busy periods, the available seating does not always meet demand.",Study Space,Study Space,-1,Negative
+R0227,Undergraduate,Computer Science,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0228,Undergraduate,Humanities,"The library has comfortable spaces, but I sometimes have to look around for an available desk.",Study Space,Study Space,1,Positive
+R0229,Graduate,Business,"I found the materials I needed after some searching, but a short guide for new researchers would help.",Research Support,Research Support,0,Neutral
+R0230,Undergraduate,Social Sciences,"Electronic materials have been convenient, especially when I cannot visit the library in person.",Digital Resources,Digital Resources,1,Positive
+R0231,Undergraduate,Computer Science,I had a positive experience getting help with a difficult research question.,Research Support,Research Support,0,Neutral
+R0232,Undergraduate,Engineering,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0233,Undergraduate,Humanities,"I found the materials I needed after some searching, but a short guide for new researchers would help.",Research Support,Research Support,0,Neutral
+R0234,Faculty/Staff,Engineering,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0235,Faculty/Staff,Business,I occasionally run into access issues when using library materials remotely.,Digital Resources,Digital Resources,0,Neutral
+R0236,Graduate,Engineering,The library could provide more support for students who are unfamiliar with scholarly research.,Research Support,Research Support,0,Neutral
+R0237,Undergraduate,Humanities,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0238,Undergraduate,Computer Science,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0239,Undergraduate,Engineering,I would like clearer guidance on evaluating sources and deciding which materials are reliable.,Research Support,Research Support,0,Neutral
+R0240,Undergraduate,Life Sciences,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0241,Graduate,Social Sciences,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0242,Undergraduate,Life Sciences,"I usually find relevant material, although some older or specialized items are difficult to locate.",Collections,Collections,-2,Negative
+R0243,Faculty/Staff,Social Sciences,"The collection is broad, but there are occasional gaps in materials for specialized subjects.",Collections,Collections,-1,Negative
+R0244,Graduate,Business,"I found the materials I needed after some searching, but a short guide for new researchers would help.",Research Support,Research Support,0,Neutral
+R0245,Undergraduate,Business,I would like to see more materials added for interdisciplinary research.,Collections,Collections,0,Neutral
+R0246,Undergraduate,Life Sciences,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0247,Graduate,Life Sciences,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0248,Faculty/Staff,Social Sciences,"The online services save me a lot of time, although the website could explain its search options better.",Digital Resources,Digital Resources,1,Positive
+R0249,Faculty/Staff,Life Sciences,The extended hours are helpful when I have assignments to finish late at night.,Study Space,Study Space,0,Neutral
+R0250,Graduate,Business,"The study environment works well for me, but seating availability varies considerably by time of day.",Study Space,Study Space,1,Positive
+R0251,Undergraduate,Life Sciences,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0252,Undergraduate,Humanities,"I appreciate the quiet areas, although some locations become noisy during the afternoon.",Study Space,Study Space,1,Positive
+R0253,Graduate,Business,"The online collection is useful, but the search experience could be easier for someone using it for the first time.",Digital Resources,Digital Resources,0,Neutral
+R0254,Graduate,Business,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0255,Graduate,Engineering,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0256,Undergraduate,Social Sciences,"I usually find relevant material, although some older or specialized items are difficult to locate.",Collections,Collections,-2,Negative
+R0257,Undergraduate,Social Sciences,"Accessing electronic material from off campus is generally convenient, although the process is not always clear.",Digital Resources,Digital Resources,0,Neutral
+R0258,Faculty/Staff,Life Sciences,A few of the books I needed for coursework were not available in the format I wanted.,Collections,Collections,-1,Negative
+R0259,Undergraduate,Business,The research help I received was excellent and made the assignment much easier.,Research Support,Research Support,1,Positive
+R0260,Faculty/Staff,Social Sciences,I sometimes feel overwhelmed by the number of academic resources available.,Research Support,Research Support,0,Neutral
+R0261,Undergraduate,Business,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Research Support,Research Support,1,Positive
+R0262,Undergraduate,Social Sciences,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Research Support,Research Support,0,Neutral
+R0263,Faculty/Staff,Humanities,"I was able to complete my research, although I spent quite a while figuring out which resources were appropriate.",Research Support,Research Support,0,Neutral
+R0264,Undergraduate,Computer Science,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0265,Faculty/Staff,Social Sciences,Research consultations have been helpful when I have used them.,Research Support,Research Support,0,Neutral
+R0266,Graduate,Life Sciences,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0267,Undergraduate,Life Sciences,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Study Space,Study Space,0,Neutral
+R0268,Undergraduate,Engineering,"The study environment works well for me, but seating availability varies considerably by time of day.",Study Space,Study Space,1,Positive
+R0269,Undergraduate,Engineering,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0270,Graduate,Life Sciences,"The physical environment is pleasant, though some seats are less comfortable for long sessions.",Study Space,Study Space,1,Positive
+R0271,Undergraduate,Humanities,"Electronic materials have been convenient, especially when I cannot visit the library in person.",Digital Resources,Digital Resources,1,Positive
+R0272,Undergraduate,Social Sciences,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0273,Undergraduate,Business,I would like a simpler way to locate electronic books and journal articles related to a course.,Digital Resources,Digital Resources,0,Neutral
+R0274,Undergraduate,Humanities,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0275,Undergraduate,Social Sciences,"The environment is generally good for studying, especially when the building is not crowded.",Study Space,Study Space,-1,Negative
+R0276,Faculty/Staff,Humanities,The available materials have supported most of my coursework successfully.,Collections,Collections,0,Neutral
+R0277,Graduate,Business,I sometimes feel overwhelmed by the number of academic resources available.,Research Support,Research Support,0,Neutral
+R0278,Undergraduate,Social Sciences,The collection has been useful for my assignments and research.,Collections,Research Support,0,Neutral
+R0279,Undergraduate,Social Sciences,More current editions of some textbooks would be helpful.,Collections,Collections,0,Neutral
+R0280,Undergraduate,Business,I like studying here because there are several different types of work areas.,Study Space,Study Space,0,Neutral
+R0281,Graduate,Life Sciences,I occasionally run into access issues when using library materials remotely.,Digital Resources,Digital Resources,0,Neutral
+R0282,Graduate,Life Sciences,A few of the books I needed for coursework were not available in the format I wanted.,Collections,Collections,-1,Negative
+R0283,Undergraduate,Humanities,"The library has comfortable spaces, but I sometimes have to look around for an available desk.",Study Space,Study Space,1,Positive
+R0284,Undergraduate,Social Sciences,"The selection is good, although availability depends heavily on the subject.",Collections,Collections,0,Neutral
+R0285,Faculty/Staff,Engineering,I would appreciate more electronic versions of books that are frequently assigned in courses.,Collections,Collections,1,Positive
+R0286,Undergraduate,Business,"The workshops are useful, although they are not always offered when I need them.",Research Support,Research Support,0,Neutral
+R0287,Undergraduate,Engineering,Sometimes I find a useful article but have difficulty understanding which access option I should select.,Digital Resources,Digital Resources,-2,Negative
+R0288,Graduate,Business,I sometimes feel overwhelmed by the number of academic resources available.,Research Support,Research Support,0,Neutral
+R0289,Graduate,Computer Science,More examples of how to conduct research using the library's resources would be valuable.,Research Support,Research Support,1,Positive
+R0290,Undergraduate,Life Sciences,"The building provides a good environment for focused work, although group spaces can be difficult to reserve.",Study Space,Study Space,-2,Negative
+R0291,Undergraduate,Business,"I usually find somewhere to work, but peak hours can be frustrating.",Study Space,Study Space,-1,Negative
+R0292,Graduate,Engineering,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0293,Undergraduate,Life Sciences,"The search tools are helpful once I understand them, but they are not very intuitive initially.",Digital Resources,Digital Resources,-1,Negative
+R0294,Undergraduate,Humanities,"The staff are knowledgeable, but I do not always know when or how to ask for research assistance.",Research Support,Research Support,0,Neutral
+R0295,Undergraduate,Business,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Collections,Collections,0,Neutral
+R0296,Undergraduate,Life Sciences,I like being able to access academic resources from home.,Digital Resources,Digital Resources,0,Neutral
+R0297,Undergraduate,Social Sciences,The extended hours are helpful when I have assignments to finish late at night.,Study Space,Study Space,0,Neutral
+R0298,Graduate,Engineering,The digital resources are extensive and generally work well for my coursework.,Digital Resources,Digital Resources,0,Neutral
+R0299,Graduate,Engineering,"I can usually access articles without a problem, but some links seem to lead me in circles.",Digital Resources,Digital Resources,0,Neutral
+R0300,Graduate,Life Sciences,"The digital collection is strong, although some materials take too many steps to access.",Digital Resources,Digital Resources,0,Neutral

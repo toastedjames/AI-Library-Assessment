@@ -1,0 +1,237 @@
+{
+  "overview": {
+    "total_responses": 300,
+    "overall_satisfaction": 3.7,
+    "digital_resources": 3.78,
+    "study_space": 3.69,
+    "research_support": 3.71,
+    "nlp_accuracy": 0.947,
+    "ai_v2_accuracy": 0.9387755102040816,
+    "ai_v2_reliability": 0.98
+  },
+  "student_level": [
+    {
+      "index": 0,
+      "student_level": "Faculty/Staff",
+      "satisfaction_score": 3.6,
+      "digital_resources_score": 3.5,
+      "study_space_score": 3.68,
+      "research_support_score": 3.65
+    },
+    {
+      "index": 1,
+      "student_level": "Graduate",
+      "satisfaction_score": 3.8,
+      "digital_resources_score": 3.86,
+      "study_space_score": 3.76,
+      "research_support_score": 3.75
+    },
+    {
+      "index": 2,
+      "student_level": "Undergraduate",
+      "satisfaction_score": 3.66,
+      "digital_resources_score": 3.79,
+      "study_space_score": 3.64,
+      "research_support_score": 3.69
+    }
+  ],
+  "theme_summary": [
+    {
+      "predicted_theme": "Research Support",
+      "responses": 84,
+      "negative_responses": 0,
+      "positive_responses": 26,
+      "negative_percent": 0.0
+    },
+    {
+      "predicted_theme": "Study Space",
+      "responses": 77,
+      "negative_responses": 27,
+      "positive_responses": 14,
+      "negative_percent": 35.1
+    },
+    {
+      "predicted_theme": "Collections",
+      "responses": 72,
+      "negative_responses": 16,
+      "positive_responses": 10,
+      "negative_percent": 22.2
+    },
+    {
+      "predicted_theme": "Digital Resources",
+      "responses": 67,
+      "negative_responses": 23,
+      "positive_responses": 10,
+      "negative_percent": 34.3
+    }
+  ],
+  "sentiment_summary": [
+    {
+      "sentiment": "Neutral",
+      "responses": 174
+    },
+    {
+      "sentiment": "Negative",
+      "responses": 66
+    },
+    {
+      "sentiment": "Positive",
+      "responses": 60
+    }
+  ],
+  "model_comparison": [
+    {
+      "approach": "TF-IDF + Logistic Regression",
+      "accuracy": 0.947,
+      "macro_f1": 0.948
+    },
+    {
+      "approach": "Qwen2.5-1.5B \u2014 Prompt V1",
+      "accuracy": 0.8438,
+      "macro_f1": 0.796
+    },
+    {
+      "approach": "Qwen2.5-1.5B \u2014 Prompt V2",
+      "accuracy": 0.9387755102040816,
+      "macro_f1": 0.9340643274853802
+    }
+  ],
+  "prompt_comparison": [
+    {
+      "version": "V1",
+      "accuracy": 0.8438,
+      "structured_output_rate": 0.64,
+      "macro_f1": 0.796
+    },
+    {
+      "version": "V2",
+      "accuracy": 0.9387755102040816,
+      "structured_output_rate": 0.98,
+      "macro_f1": 0.9340643274853802
+    }
+  ],
+  "confidence": [
+    {
+      "correct": false,
+      "count": 3,
+      "mean": 0.9,
+      "min": 0.9,
+      "max": 0.9
+    },
+    {
+      "correct": true,
+      "count": 46,
+      "mean": 0.314,
+      "min": 0.0,
+      "max": 0.9
+    }
+  ],
+  "errors": [
+    {
+      "respondent_id": "R0197",
+      "validation_theme": "Digital Resources",
+      "theme": "Research Support",
+      "confidence": 0.9,
+      "issue": "Remote/Digital Access",
+      "evidence": "I like being able to access academic resources from home.",
+      "recommendation": "Ensure that remote access options are maintained and improved for all users."
+    },
+    {
+      "respondent_id": "R0251",
+      "validation_theme": "Collections",
+      "theme": "Research Support",
+      "confidence": 0.9,
+      "issue": "Materials support coursework",
+      "evidence": "The available materials have supported most of my coursework successfully.",
+      "recommendation": "Continue using the available materials effectively for coursework support."
+    },
+    {
+      "respondent_id": "R0296",
+      "validation_theme": "Digital Resources",
+      "theme": "Research Support",
+      "confidence": 0.9,
+      "issue": "Remote/Digital Access",
+      "evidence": "I like being able to access academic resources from home.",
+      "recommendation": "Ensure that remote access options are maintained and improved for all users."
+    }
+  ],
+  "nlp_metrics": {
+    "model": "TF-IDF + Logistic Regression",
+    "train_size": 225,
+    "test_size": 75,
+    "accuracy": 0.9467,
+    "macro_f1": 0.9478,
+    "weighted_f1": 0.9475,
+    "classes": [
+      "Collections",
+      "Digital Resources",
+      "Research Support",
+      "Study Space"
+    ],
+    "classification_report": {
+      "Collections": {
+        "precision": 1.0,
+        "recall": 0.8947368421052632,
+        "f1-score": 0.9444444444444444,
+        "support": 19.0
+      },
+      "Digital Resources": {
+        "precision": 1.0,
+        "recall": 0.8823529411764706,
+        "f1-score": 0.9375,
+        "support": 17.0
+      },
+      "Research Support": {
+        "precision": 0.8333333333333334,
+        "recall": 1.0,
+        "f1-score": 0.9090909090909091,
+        "support": 20.0
+      },
+      "Study Space": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 19.0
+      },
+      "accuracy": 0.9466666666666667,
+      "macro avg": {
+        "precision": 0.9583333333333334,
+        "recall": 0.9442724458204335,
+        "f1-score": 0.9477588383838383,
+        "support": 75.0
+      },
+      "weighted avg": {
+        "precision": 0.9555555555555556,
+        "recall": 0.9466666666666667,
+        "f1-score": 0.9475168350168349,
+        "support": 75.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        17,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        15,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        20,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        19
+      ]
+    ]
+  }
+}

@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        AI-Assisted Library Assessment
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+
+</head>
+
+
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+
+    <header class="header">
+
+        <div>
+
+            <p class="eyebrow">
+                UNIVERSITY LIBRARY • AI ASSESSMENT PILOT
+            </p>
+
+            <h1>
+                AI-Assisted Library Assessment
+            </h1>
+
+            <p class="subtitle">
+                Quantitative assessment, NLP analysis,
+                generative AI evaluation, and responsible-AI review.
+            </p>
+
+        </div>
+
+        <div class="status">
+
+            <span class="status-dot"></span>
+
+            Synthetic Pilot Dataset
+
+        </div>
+
+    </header>
+
+
+    <!-- KPI Cards -->
+
+    <section class="kpi-grid">
+
+        <div class="kpi-card">
+
+            <span>
+                Survey Responses
+            </span>
+
+            <strong id="totalResponses">
+                —
+            </strong>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span>
+                Overall Satisfaction
+            </span>
+
+            <strong id="satisfaction">
+                —
+            </strong>
+
+            <small>
+                out of 5
+            </small>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span>
+                NLP Baseline Accuracy
+            </span>
+
+            <strong id="nlpAccuracy">
+                —
+            </strong>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span>
+                AI V2 Accuracy
+            </span>
+
+            <strong id="aiAccuracy">
+                —
+            </strong>
+
+        </div>
+
+
+        <div class="kpi-card">
+
+            <span>
+                AI Workflow Reliability
+            </span>
+
+            <strong id="aiReliability">
+                —
+            </strong>
+
+        </div>
+
+    </section>
+
+
+    <!-- Assessment -->
+
+    <section>
+
+        <div class="section-heading">
+
+            <div>
+
+                <p class="section-label">
+                    01 • ASSESSMENT
+                </p>
+
+                <h2>
+                    Library Service Assessment
+                </h2>
+
+            </div>
+
+            <p>
+                Average scores from the synthetic survey dataset.
+            </p>
+
+        </div>
+
+
+        <div class="chart-grid">
+
+            <div class="card">
+
+                <h3>
+                    Assessment Dimensions
+                </h3>
+
+                <div
+                    id="dimensionChart"
+                    class="bar-chart"
+                ></div>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>
+                    Satisfaction by Respondent Level
+                </h3>
+
+                <div
+                    id="levelChart"
+                    class="bar-chart"
+                ></div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Qualitative Analysis -->
+
+    <section>
+
+        <div class="section-heading">
+
+            <div>
+
+                <p class="section-label">
+                    02 • QUALITATIVE ANALYSIS
+                </p>
+
+                <h2>
+                    What Are Respondents Saying?
+                </h2>
+
+            </div>
+
+            <p>
+                NLP-based analysis of open-ended feedback.
+            </p>
+
+        </div>
+
+
+        <div class="chart-grid">
+
+            <div class="card">
+
+                <h3>
+                    Feedback Themes
+                </h3>
+
+                <div
+                    id="themeChart"
+                    class="bar-chart"
+                ></div>
+
+            </div>
+
+
+            <div class="card">
+
+                <h3>
+                    Sentiment Distribution
+                </h3>
+
+                <div
+                    id="sentimentChart"
+                    class="bar-chart"
+                ></div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- AI Evaluation -->
+
+    <section>
+
+        <div class="section-heading">
+
+            <div>
+
+                <p class="section-label">
+                    03 • AI EVALUATION
+                </p>
+
+                <h2>
+                    Traditional NLP vs. Generative AI
+                </h2>
+
+            </div>
+
+            <p>
+                Model performance on held-out or pilot evaluation data.
+            </p>
+
+        </div>
+
+
+        <div class="card">
+
+            <div
+                id="modelChart"
+                class="comparison-chart"
+            ></div>
+
+        </div>
+
+
+        <div class="card prompt-card">
+
+            <div>
+
+                <p class="section-label">
+                    PROMPT ENGINEERING EXPERIMENT
+                </p>
+
+                <h3>
+                    Prompt V1 → Prompt V2
+                </h3>
+
+            </div>
+
+            <div class="prompt-results">
+
+                <div>
+
+                    <span>
+                        Structured Output
+                    </span>
+
+                    <strong>
+                        64%
+                        →
+                        98%
+                    </strong>
+
+                </div>
+
+
+                <div>
+
+                    <span>
+                        Theme Accuracy
+                    </span>
+
+                    <strong>
+                        84.4%
+                        →
+                        93.9%
+                    </strong>
+
+                </div>
+
+
+                <div>
+
+                    <span>
+                        Macro F1
+                    </span>
+
+                    <strong>
+                        0.796
+                        →
+                        0.934
+                    </strong>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Responsible AI -->
+
+    <section>
+
+        <div class="section-heading">
+
+            <div>
+
+                <p class="section-label">
+                    04 • RESPONSIBLE AI
+                </p>
+
+                <h2>
+                    Reliability & Human Oversight
+                </h2>
+
+            </div>
+
+            <p>
+                AI output is treated as an analytical aid,
+                not ground truth.
+            </p>
+
+        </div>
+
+
+        <div class="insight-grid">
+
+            <div class="insight-card">
+
+                <span class="insight-number">
+                    98%
+                </span>
+
+                <h3>
+                    Structured-output reliability
+                </h3>
+
+                <p>
+                    Prompt refinement increased valid structured
+                    responses from 64% to 98%.
+                </p>
+
+            </div>
+
+
+            <div class="insight-card">
+
+                <span class="insight-number">
+                    3
+                </span>
+
+                <h3>
+                    V2 classification errors
+                </h3>
+
+                <p>
+                    Incorrect classifications were retained for
+                    error analysis rather than removed from the study.
+                </p>
+
+            </div>
+
+
+            <div class="insight-card warning">
+
+                <span class="insight-number">
+                    ⚠
+                </span>
+
+                <h3>
+                    Confidence was poorly calibrated
+                </h3>
+
+                <p>
+                    V2 errors had higher reported confidence than
+                    correct classifications, demonstrating why
+                    external validation remains necessary.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Recommendations -->
+
+    <section>
+
+        <div class="section-heading">
+
+            <div>
+
+                <p class="section-label">
+                    05 • RECOMMENDATIONS
+                </p>
+
+                <h2>
+                    Assessment Implications
+                </h2>
+
+            </div>
+
+        </div>
+
+
+        <div class="recommendations">
+
+            <div>
+                <strong>01</strong>
+                <p>
+                    Use AI to accelerate qualitative feedback
+                    analysis, while retaining human validation.
+                </p>
+            </div>
+
+
+            <div>
+                <strong>02</strong>
+                <p>
+                    Use structured prompts and controlled taxonomies
+                    to improve reproducibility and output reliability.
+                </p>
+            </div>
+
+
+            <div>
+                <strong>03</strong>
+                <p>
+                    Do not treat model-reported confidence as
+                    evidence of correctness.
+                </p>
+            </div>
+
+
+            <div>
+                <strong>04</strong>
+                <p>
+                    Compare AI-assisted workflows against simpler
+                    statistical and NLP baselines before deployment.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Footer -->
+
+    <footer>
+
+        <span>
+            AI-Assisted Library Assessment Pilot
+        </span>
+
+        <span>
+            Synthetic data • Reproducible workflow • Human oversight
+        </span>
+
+    </footer>
+
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

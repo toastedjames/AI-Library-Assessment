@@ -1,0 +1,501 @@
+respondent_id,validation_theme,theme,sentiment,issue,evidence,recommendation,confidence,valid_json,raw_output
+R0204,Collections,Collections,Neutral,unavailable editions,"I found most of the material I needed, but a few important sources were unavailable.",Check if there are alternative versions or copies available at other libraries or through interlibrary loan.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""unavailable editions"",
+    ""evidence"": ""I found most of the material I needed, but a few important sources were unavailable."",
+    ""recommendation"": ""Check if there are alternative versions or copies available at other libraries or through interlibrary loan."",
+    ""confidence"": 0.00
+}
+```"
+R0267,Study Space,Study Space,Neutral,distinction between quiet and collaborative spaces,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Clarify the difference between quiet and collaborative study areas to enhance user understanding and expectations.,0.5,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""distinction between quiet and collaborative spaces"",
+    ""evidence"": ""The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer."",
+    ""recommendation"": ""Clarify the difference between quiet and collaborative study areas to enhance user understanding and expectations."",
+    ""confidence"": 0.50
+}
+```"
+R0153,Study Space,Study Space,Neutral,Crowding during peak hours,"I usually find somewhere to work, but peak hours can be frustrating.",Consider using alternative study locations or times to avoid crowded conditions.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Crowding during peak hours"",
+    ""evidence"": ""I usually find somewhere to work, but peak hours can be frustrating."",
+    ""recommendation"": ""Consider using alternative study locations or times to avoid crowded conditions."",
+    ""confidence"": 0.00
+}
+```"
+R0010,Study Space,Study Space,Neutral,Physical study areas,I like studying here because there are several different types of work areas.,,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Physical study areas"",
+    ""evidence"": ""I like studying here because there are several different types of work areas."",
+    ""recommendation"": null,
+    ""confidence"": 0.00
+}
+```"
+R0234,Collections,Collections,Neutral,Availability of Electronic Versions of Books,I would appreciate more electronic versions of books that are frequently assigned in courses.,Requesting the addition of more electronic copies of frequently used textbooks can help improve accessibility and convenience for students.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Availability of Electronic Versions of Books"",
+    ""evidence"": ""I would appreciate more electronic versions of books that are frequently assigned in courses."",
+    ""recommendation"": ""Requesting the addition of more electronic copies of frequently used textbooks can help improve accessibility and convenience for students."",
+    ""confidence"": 0.00
+}
+```"
+R0227,Study Space,Study Space,Neutral,Physical study areas,I like studying here because there are several different types of work areas.,,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Physical study areas"",
+    ""evidence"": ""I like studying here because there are several different types of work areas."",
+    ""recommendation"": null,
+    ""confidence"": 0.00
+}
+```"
+R0197,Digital Resources,Research Support,Positive,Remote/Digital Access,I like being able to access academic resources from home.,Ensure that remote access options are maintained and improved for all users.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""Remote/Digital Access"",
+    ""evidence"": ""I like being able to access academic resources from home."",
+    ""recommendation"": ""Ensure that remote access options are maintained and improved for all users."",
+    ""confidence"": 0.90
+}
+```"
+R0110,Study Space,Study Space,Neutral,distinction between quiet and collaborative spaces,"The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer.",Clarify the difference between quiet and collaborative study areas to enhance user understanding and expectations.,0.5,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""distinction between quiet and collaborative spaces"",
+    ""evidence"": ""The quiet areas are useful, but the distinction between quiet and collaborative spaces could be clearer."",
+    ""recommendation"": ""Clarify the difference between quiet and collaborative study areas to enhance user understanding and expectations."",
+    ""confidence"": 0.50
+}
+```"
+R0006,Research Support,Research Support,Neutral,difficulty understanding how to evaluate sources and decide reliability,I would like clearer guidance on evaluating sources and deciding which materials are reliable.,Provide more detailed tutorials and resources on source evaluation and reliability determination.,0.0,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty understanding how to evaluate sources and decide reliability"",
+    ""evidence"": ""I would like clearer guidance on evaluating sources and deciding which materials are reliable."",
+    ""recommendation"": ""Provide more detailed tutorials and resources on source evaluation and reliability determination."",
+    ""confidence"": 0.00
+}
+```"
+R0176,Research Support,Research Support,Neutral,difficulty understanding research processes,The library could provide more support for students who are unfamiliar with scholarly research.,Offer additional resources such as tutorials on research methodologies and help sessions for students struggling with research concepts.,0.0,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty understanding research processes"",
+    ""evidence"": ""The library could provide more support for students who are unfamiliar with scholarly research."",
+    ""recommendation"": ""Offer additional resources such as tutorials on research methodologies and help sessions for students struggling with research concepts."",
+    ""confidence"": 0.00
+}
+```"
+R0238,Research Support,Research Support | Digital Resources | Study Space | Collections,Neutral,Need for additional resources (workshops) for advanced research methods,"The library offers good support for research, but more workshops on advanced research methods would be useful.",Offer more workshops on advanced research methods to enhance the library's support for researchers.,0.5,False,"```json
+{
+    ""theme"": ""Research Support | Digital Resources | Study Space | Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Need for additional resources (workshops) for advanced research methods"",
+    ""evidence"": ""The library offers good support for research, but more workshops on advanced research methods would be useful."",
+    ""recommendation"": ""Offer more workshops on advanced research methods to enhance the library's support for researchers."",
+    ""confidence"": 0.50
+}
+```"
+R0058,Collections,Collections,Neutral,availability of specific subject resources,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Consider requesting additional copies or interlibrary loan services for underrepresented subjects.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""availability of specific subject resources"",
+    ""evidence"": ""The library has a strong selection overall, although certain subjects have fewer resources than others."",
+    ""recommendation"": ""Consider requesting additional copies or interlibrary loan services for underrepresented subjects."",
+    ""confidence"": 0.00
+}
+```"
+R0219,Research Support,Research Support,Positive,research guidance,The research help I received was excellent and made the assignment much easier.,Continue seeking expert advice on research strategies and methodologies.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""research guidance"",
+    ""evidence"": ""The research help I received was excellent and made the assignment much easier."",
+    ""recommendation"": ""Continue seeking expert advice on research strategies and methodologies."",
+    ""confidence"": 0.90
+}
+```"
+R0046,Study Space,Study Space,Neutral,Physical seating availability during peak times,I need an empty desk during exam periods.,Librarians can monitor usage patterns and allocate extra desks during busy hours.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Physical seating availability during peak times"",
+    ""evidence"": ""I need an empty desk during exam periods."",
+    ""recommendation"": ""Librarians can monitor usage patterns and allocate extra desks during busy hours."",
+    ""confidence"": 0.00
+}
+```"
+R0183,Research Support,Research Support,Neutral,difficulty with initial research guidance,"I can usually find useful academic material, although I sometimes need more guidance on where to begin.",Librarians can provide additional resources or workshops to offer more comprehensive guidance at the beginning of research projects.,0.85,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty with initial research guidance"",
+    ""evidence"": ""I can usually find useful academic material, although I sometimes need more guidance on where to begin."",
+    ""recommendation"": ""Librarians can provide additional resources or workshops to offer more comprehensive guidance at the beginning of research projects."",
+    ""confidence"": 0.85
+}
+```"
+R0222,Collections,Collections,Neutral,availability of specific subjects' materials,The response indicates dissatisfaction with the library's ability to provide materials related to certain subjects.,The library should work on increasing the variety and quantity of materials covering less common or niche subjects.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""availability of specific subjects' materials"",
+    ""evidence"": ""The response indicates dissatisfaction with the library's ability to provide materials related to certain subjects."",
+    ""recommendation"": ""The library should work on increasing the variety and quantity of materials covering less common or niche subjects."",
+    ""confidence"": 0.00
+}
+```"
+R0290,Study Space,Study Space,Neutral,group study rooms,"Although the building provides a good environment for focused work, group spaces can be difficult to reserve.",Consider using alternative locations like quiet rooms or public areas during peak reservation times.,0.5,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""group study rooms"",
+    ""evidence"": ""Although the building provides a good environment for focused work, group spaces can be difficult to reserve."",
+    ""recommendation"": ""Consider using alternative locations like quiet rooms or public areas during peak reservation times."",
+    ""confidence"": 0.50
+}
+```"
+R0212,Study Space,Study Space,Neutral,group study rooms,"Although the building provides a good environment for focused work, group spaces can be difficult to reserve.",Consider using alternative locations like quiet rooms or public areas during peak reservation times.,0.5,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""group study rooms"",
+    ""evidence"": ""Although the building provides a good environment for focused work, group spaces can be difficult to reserve."",
+    ""recommendation"": ""Consider using alternative locations like quiet rooms or public areas during peak reservation times."",
+    ""confidence"": 0.50
+}
+```"
+R0149,Research Support,Research Support,Neutral,research consultations,I have found research consultations useful when using them.,Continue seeking research support as it has proven beneficial.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""research consultations"",
+    ""evidence"": ""I have found research consultations useful when using them."",
+    ""recommendation"": ""Continue seeking research support as it has proven beneficial."",
+    ""confidence"": 0.90
+}
+```"
+R0166,Study Space,Study Space,Neutral,Crowding during peak hours,"I usually find somewhere to work, but peak hours can be frustrating.",Consider using alternative study locations or times to avoid crowded conditions.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Crowding during peak hours"",
+    ""evidence"": ""I usually find somewhere to work, but peak hours can be frustrating."",
+    ""recommendation"": ""Consider using alternative study locations or times to avoid crowded conditions."",
+    ""confidence"": 0.00
+}
+```"
+R0079,Research Support,Research Support,Neutral,difficulty finding research advice,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Consider scheduling regular meetings with librarians to receive timely research guidance.,0.5,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty finding research advice"",
+    ""evidence"": ""I appreciate the assistance available, though finding research advice at the right time can be difficult."",
+    ""recommendation"": ""Consider scheduling regular meetings with librarians to receive timely research guidance."",
+    ""confidence"": 0.50
+}
+```"
+R0114,Research Support,Research Support,Neutral,difficulty finding research advice,"I appreciate the assistance available, though finding research advice at the right time can be difficult.",Consider scheduling regular meetings with librarians to receive timely research guidance.,0.5,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty finding research advice"",
+    ""evidence"": ""I appreciate the assistance available, though finding research advice at the right time can be difficult."",
+    ""recommendation"": ""Consider scheduling regular meetings with librarians to receive timely research guidance."",
+    ""confidence"": 0.50
+}
+```"
+R0250,Study Space,Study Space,Neutral,Seating availability,"The study environment works well for me, but seating availability varies considerably by time of day.",Consider using alternative locations with more consistent seating availability during peak times.,0.5,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Seating availability"",
+    ""evidence"": ""The study environment works well for me, but seating availability varies considerably by time of day."",
+    ""recommendation"": ""Consider using alternative locations with more consistent seating availability during peak times."",
+    ""confidence"": 0.50
+}
+```"
+R0251,Collections,Research Support,Positive,Materials support coursework,The available materials have supported most of my coursework successfully.,Continue using the available materials effectively for coursework support.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""Materials support coursework"",
+    ""evidence"": ""The available materials have supported most of my coursework successfully."",
+    ""recommendation"": ""Continue using the available materials effectively for coursework support."",
+    ""confidence"": 0.90
+}
+```"
+R0105,Digital Resources,Digital Resources,Neutral,Search Experience,"The online collection is useful, but the search experience could be easier for someone using it for the first time.",Improve the user interface and provide more intuitive search options to enhance usability for new users.,0.5,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Search Experience"",
+    ""evidence"": ""The online collection is useful, but the search experience could be easier for someone using it for the first time."",
+    ""recommendation"": ""Improve the user interface and provide more intuitive search options to enhance usability for new users."",
+    ""confidence"": 0.50
+}
+```"
+R0043,Study Space,Study Space,Neutral,difficulty finding an empty desk during exam periods,"The library is comfortable, but I often cannot find an empty desk during exam periods.",Try using the library's designated quiet zones or ask if there are any temporary seats available.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty finding an empty desk during exam periods"",
+    ""evidence"": ""The library is comfortable, but I often cannot find an empty desk during exam periods."",
+    ""recommendation"": ""Try using the library's designated quiet zones or ask if there are any temporary seats available."",
+    ""confidence"": 0.00
+}
+```"
+R0282,Collections,Collections,Negative,Books not available in desired format,A few of the books I needed for coursework were not available in the format I wanted.,Request alternative formats or consider borrowing from other libraries.,0.9,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Negative"",
+    ""issue"": ""Books not available in desired format"",
+    ""evidence"": ""A few of the books I needed for coursework were not available in the format I wanted."",
+    ""recommendation"": ""Request alternative formats or consider borrowing from other libraries."",
+    ""confidence"": 0.90
+}
+```"
+R0296,Digital Resources,Research Support,Positive,Remote/Digital Access,I like being able to access academic resources from home.,Ensure that remote access options are maintained and improved for all users.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""Remote/Digital Access"",
+    ""evidence"": ""I like being able to access academic resources from home."",
+    ""recommendation"": ""Ensure that remote access options are maintained and improved for all users."",
+    ""confidence"": 0.90
+}
+```"
+R0158,Collections,Collections,Neutral,Availability of older materials,I sometimes have to look outside the university for older academic sources.,Consider exploring local libraries or archives for additional resources.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Availability of older materials"",
+    ""evidence"": ""I sometimes have to look outside the university for older academic sources."",
+    ""recommendation"": ""Consider exploring local libraries or archives for additional resources."",
+    ""confidence"": 0.00
+}
+```"
+R0239,Research Support,Research Support,Neutral,difficulty understanding how to evaluate sources and decide reliability,I would like clearer guidance on evaluating sources and deciding which materials are reliable.,Provide more detailed tutorials and resources on source evaluation and reliability determination.,0.0,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty understanding how to evaluate sources and decide reliability"",
+    ""evidence"": ""I would like clearer guidance on evaluating sources and deciding which materials are reliable."",
+    ""recommendation"": ""Provide more detailed tutorials and resources on source evaluation and reliability determination."",
+    ""confidence"": 0.00
+}
+```"
+R0018,Digital Resources,Digital Resources,Neutral,Difficulty in determining relevance of search results,"The online catalog has a lot of information, but it can be difficult to tell which result is most useful.",Librarians may need to provide more detailed categorization or filtering options to help users quickly identify relevant resources.,0.0,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Difficulty in determining relevance of search results"",
+    ""evidence"": ""The online catalog has a lot of information, but it can be difficult to tell which result is most useful."",
+    ""recommendation"": ""Librarians may need to provide more detailed categorization or filtering options to help users quickly identify relevant resources."",
+    ""confidence"": 0.00
+}
+```"
+R0165,Study Space,Study Space,Neutral,Crowding during peak hours,"I usually find somewhere to work, but peak hours can be frustrating.",Consider using alternative study locations or times to avoid crowded conditions.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Crowding during peak hours"",
+    ""evidence"": ""I usually find somewhere to work, but peak hours can be frustrating."",
+    ""recommendation"": ""Consider using alternative study locations or times to avoid crowded conditions."",
+    ""confidence"": 0.00
+}
+```"
+R0034,Digital Resources,Digital Resources,Positive,difficulty accessing specific resources,The digital resources are extensive and generally work well for my coursework.,Ensure you know where to find specific resources within the digital database.,0.9,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""difficulty accessing specific resources"",
+    ""evidence"": ""The digital resources are extensive and generally work well for my coursework."",
+    ""recommendation"": ""Ensure you know where to find specific resources within the digital database."",
+    ""confidence"": 0.90
+}
+```"
+R0025,Collections,Collections,Neutral,availability of specific subject resources,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Consider requesting additional copies or interlibrary loan services for underrepresented subjects.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""availability of specific subject resources"",
+    ""evidence"": ""The library has a strong selection overall, although certain subjects have fewer resources than others."",
+    ""recommendation"": ""Consider requesting additional copies or interlibrary loan services for underrepresented subjects."",
+    ""confidence"": 0.00
+}
+```"
+R0216,Study Space,Study Space,Neutral,Crowding during study sessions,"The environment is generally good for studying, especially when the building is not crowded.",Consider organizing study groups or using quieter sections of the library to reduce crowding during busy times.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Crowding during study sessions"",
+    ""evidence"": ""The environment is generally good for studying, especially when the building is not crowded."",
+    ""recommendation"": ""Consider organizing study groups or using quieter sections of the library to reduce crowding during busy times."",
+    ""confidence"": 0.00
+}
+```"
+R0120,Study Space,Study Space,Neutral,difficulty finding an empty desk during exam periods,"The library is comfortable, but I often cannot find an empty desk during exam periods.",Try using the library's designated quiet zones or ask if there are any temporary seats available.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty finding an empty desk during exam periods"",
+    ""evidence"": ""The library is comfortable, but I often cannot find an empty desk during exam periods."",
+    ""recommendation"": ""Try using the library's designated quiet zones or ask if there are any temporary seats available."",
+    ""confidence"": 0.00
+}
+```"
+R0008,Digital Resources,Digital Resources,Neutral,Difficulty accessing library materials remotely,I occasionally run into access issues when using library materials remotely.,Consider contacting the library's IT support team for troubleshooting.,0.5,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Difficulty accessing library materials remotely"",
+    ""evidence"": ""I occasionally run into access issues when using library materials remotely."",
+    ""recommendation"": ""Consider contacting the library's IT support team for troubleshooting."",
+    ""confidence"": 0.50
+}
+```"
+R0091,Research Support,Research Support,Positive,research guidance,The research help I received was excellent and made the assignment much easier.,Continue seeking expert advice on research strategies and methodologies.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""research guidance"",
+    ""evidence"": ""The research help I received was excellent and made the assignment much easier."",
+    ""recommendation"": ""Continue seeking expert advice on research strategies and methodologies."",
+    ""confidence"": 0.90
+}
+```"
+R0047,Digital Resources,Digital Resources,Positive,Convenience with Electronic Materials,"Electronic materials have been convenient, especially when I cannot visit the library in person.","Ensure easy access to electronic resources through various platforms like e-books, journals, and online databases.",0.9,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""Convenience with Electronic Materials"",
+    ""evidence"": ""Electronic materials have been convenient, especially when I cannot visit the library in person."",
+    ""recommendation"": ""Ensure easy access to electronic resources through various platforms like e-books, journals, and online databases."",
+    ""confidence"": 0.90
+}
+```"
+R0074,Study Space,Study Space,Neutral,difficulty finding an empty desk during exam periods,"I needed an older book for my project, but the library did not have a copy available.",Try using the library's online reservation system to reserve a desk before your visit.,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""difficulty finding an empty desk during exam periods"",
+    ""evidence"": ""I needed an older book for my project, but the library did not have a copy available."",
+    ""recommendation"": ""Try using the library's online reservation system to reserve a desk before your visit."",
+    ""confidence"": 0.00
+}
+```"
+R0094,Research Support,Research Support,Positive,research guidance,The research help I received was excellent and made the assignment much easier.,Continue seeking expert advice on research strategies and methodologies.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""research guidance"",
+    ""evidence"": ""The research help I received was excellent and made the assignment much easier."",
+    ""recommendation"": ""Continue seeking expert advice on research strategies and methodologies."",
+    ""confidence"": 0.90
+}
+```"
+R0077,Research Support,Research Support,Neutral,Need for a short guide for new researchers,"I found the materials I needed after some searching, but a short guide for new researchers would help.",Provide a concise introduction or tutorial on basic research techniques and resources for new users.,0.0,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Need for a short guide for new researchers"",
+    ""evidence"": ""I found the materials I needed after some searching, but a short guide for new researchers would help."",
+    ""recommendation"": ""Provide a concise introduction or tutorial on basic research techniques and resources for new users."",
+    ""confidence"": 0.00
+}
+```"
+R0287,Digital Resources,Digital Resources,Neutral,Difficulty with selecting access options for articles,I sometimes find a useful article but have difficulty understanding which access option I should select.,Consider using the library's helpdesk or contact librarian for guidance on accessing specific resources.,0.0,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Difficulty with selecting access options for articles"",
+    ""evidence"": ""I sometimes find a useful article but have difficulty understanding which access option I should select."",
+    ""recommendation"": ""Consider using the library's helpdesk or contact librarian for guidance on accessing specific resources."",
+    ""confidence"": 0.00
+}
+```"
+R0061,Collections,Collections,Neutral,Occasional gaps in specialized materials,"The collection is broad, but there are occasional gaps in materials for specialized subjects.",Consider requesting additional copies or interlibrary loan services for specialized materials.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Occasional gaps in specialized materials"",
+    ""evidence"": ""The collection is broad, but there are occasional gaps in materials for specialized subjects."",
+    ""recommendation"": ""Consider requesting additional copies or interlibrary loan services for specialized materials."",
+    ""confidence"": 0.00
+}
+```"
+R0078,Collections,Collections,Neutral,availability of specific subject resources,"The library has a strong selection overall, although certain subjects have fewer resources than others.",Consider requesting additional copies or interlibrary loan services for underrepresented subjects.,0.0,True,"```json
+{
+    ""theme"": ""Collections"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""availability of specific subject resources"",
+    ""evidence"": ""The library has a strong selection overall, although certain subjects have fewer resources than others."",
+    ""recommendation"": ""Consider requesting additional copies or interlibrary loan services for underrepresented subjects."",
+    ""confidence"": 0.00
+}
+```"
+R0064,Digital Resources,Digital Resources,Neutral,Search Experience,"The online collection is useful, but the search experience could be easier for someone using it for the first time.",Improve the user interface and provide more intuitive search options to enhance usability for new users.,0.5,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Search Experience"",
+    ""evidence"": ""The online collection is useful, but the search experience could be easier for someone using it for the first time."",
+    ""recommendation"": ""Improve the user interface and provide more intuitive search options to enhance usability for new users."",
+    ""confidence"": 0.50
+}
+```"
+R0235,Digital Resources,Digital Resources,Neutral,Difficulty accessing library materials remotely,I occasionally run into access issues when using library materials remotely.,Consider contacting the library's IT support team for troubleshooting.,0.5,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Difficulty accessing library materials remotely"",
+    ""evidence"": ""I occasionally run into access issues when using library materials remotely."",
+    ""recommendation"": ""Consider contacting the library's IT support team for troubleshooting."",
+    ""confidence"": 0.50
+}
+```"
+R0230,Digital Resources,Digital Resources,Positive,Convenience with Electronic Materials,"Electronic materials have been convenient, especially when I cannot visit the library in person.","Ensure easy access to electronic resources through various platforms like e-books, journals, and online databases.",0.9,True,"```json
+{
+    ""theme"": ""Digital Resources"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""Convenience with Electronic Materials"",
+    ""evidence"": ""Electronic materials have been convenient, especially when I cannot visit the library in person."",
+    ""recommendation"": ""Ensure easy access to electronic resources through various platforms like e-books, journals, and online databases."",
+    ""confidence"": 0.90
+}
+```"
+R0112,Research Support,Research Support,Positive,difficulty conducting research,I had a positive experience getting help with a difficult research question.,Seek additional resources or consult experts if facing similar challenges.,0.9,True,"```json
+{
+    ""theme"": ""Research Support"",
+    ""sentiment"": ""Positive"",
+    ""issue"": ""difficulty conducting research"",
+    ""evidence"": ""I had a positive experience getting help with a difficult research question."",
+    ""recommendation"": ""Seek additional resources or consult experts if facing similar challenges."",
+    ""confidence"": 0.90
+}
+```"
+R0232,Study Space,Study Space,Neutral,Physical study areas,I like studying here because there are several different types of work areas.,,0.0,True,"```json
+{
+    ""theme"": ""Study Space"",
+    ""sentiment"": ""Neutral"",
+    ""issue"": ""Physical study areas"",
+    ""evidence"": ""I like studying here because there are several different types of work areas."",
+    ""recommendation"": null,
+    ""confidence"": 0.00
+}
+```"

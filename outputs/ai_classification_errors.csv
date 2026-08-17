@@ -1,0 +1,6 @@
+respondent_id,validation_theme,theme,sentiment,confidence,issue,evidence,recommendation
+R0197,Digital Resources,Research Support,Positive,0.9,Access to Academic Resources,I like being able to access academic resources from home.,
+R0296,Digital Resources,Research Support,Positive,0.9,Access to Academic Resources,I like being able to access academic resources from home.,
+R0008,Digital Resources,Research Support,Negative,0.8,Access Issues with Remote Materials,I occasionally run into access issues when using library materials remotely.,
+R0287,Digital Resources,Collections,Neutral,0.8,Difficulty with accessing articles,I sometimes find a useful article but have difficulty understanding which access option I should select.,Consider providing more detailed instructions on how to access and use resources effectively.
+R0235,Digital Resources,Research Support,Negative,0.8,Access Issues with Remote Materials,I occasionally run into access issues when using library materials remotely.,

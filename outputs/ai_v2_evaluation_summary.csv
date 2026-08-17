@@ -1,0 +1,2 @@
+prompt_version,total_responses,valid_outputs,structured_output_rate,theme_accuracy,macro_f1
+V2,50,49,0.98,0.9387755102040817,0.9340643274853802
